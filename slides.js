@@ -8,7 +8,7 @@ let value = 0
 // trail index number
 let trailValue = 0
 // interval (Duration)
-let interval = 40000
+let interval = 60000
 
 // Function to slide forward
 const slide = (condition) => {

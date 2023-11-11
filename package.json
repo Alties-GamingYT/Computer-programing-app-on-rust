@@ -1,5 +1,5 @@
 {
-  "name": "my-electron-app",
+  "name": "computer-programing-app-on-rust",
   "version": "1.0.0",
   "description": "Hello Rust!",
   "main": "main.js",
@@ -9,7 +9,7 @@
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
-  "author": "Jane Doe",
+  "author": "Altie",
   "license": "MIT",
   "devDependencies": {
     "@electron-forge/cli": "^6.4.2",
